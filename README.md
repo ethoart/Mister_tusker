@@ -1,2 +1,2 @@
 # Mister_tusker
-mister tusker respository
+mister tusker repository
